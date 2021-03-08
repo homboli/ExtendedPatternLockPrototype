@@ -1,0 +1,174 @@
+{
+        "xVelocity": {
+            "threshold": 0.0,
+            "score": 0.4351660706252373
+        },
+        "yVelocity": {
+            "threshold": 0.0,
+            "score": 0.44331903023835073
+        },
+        "pressure": {
+            "threshold": 23.0,
+            "score": 0.48556536020595403
+        },
+        "touchMajor": {
+            "threshold": 26.0,
+            "score": 0.4758212829769762
+        },
+        "touchMinor": {
+            "threshold": 30.0,
+            "score": 0.4739432223613371
+        },
+        "xcoord": {
+            "threshold": 0.0,
+            "score": 0.4157727234538973
+        },
+        "yCoord": {
+            "threshold": 0.0,
+            "score": 0.41976415605913064
+        },
+        "size": {
+            "threshold": 24.0,
+            "score": 0.47621754427055674
+        },
+        "gameRotationVectorXValue": {
+            "threshold": 0.0,
+            "score": 0.7263822761719814
+        },
+        "gameRotationVectorYValue": {
+            "threshold": 0.0,
+            "score": 0.6434913856339947
+        },
+        "gravityXValue": {
+            "threshold": 0.0,
+            "score": 0.6095482388175388
+        },
+        "gravityYValue": {
+            "threshold": 0.0,
+            "score": 0.7235882015681092
+        },
+        "gravityZValue": {
+            "threshold": 0.0,
+            "score": 0.7102002374259303
+        },
+        "accelerometerXValue": {
+            "threshold": 0.0,
+            "score": 0.5436179276097436
+        },
+        "accelerometerYValue": {
+            "threshold": 0.0,
+            "score": 0.6984303522166471
+        },
+        "accelerometerZValue": {
+            "threshold": 0.0,
+            "score": 0.5554591937961857
+        },
+        "linearAccelerationXValue": {
+            "threshold": 0.0,
+            "score": 0.43862489025625867
+        },
+        "linearAccelerationYValue": {
+            "threshold": 0.0,
+            "score": 0.43521366073568024
+        },
+        "linearAccelerationZValue": {
+            "threshold": 0.0,
+            "score": 0.4196441233463062
+        },
+        "rotationVectorXValue": {
+            "threshold": 0.0,
+            "score": 0.7552092127590518
+        },
+        "rotationVectorYValue": {
+            "threshold": 0.0,
+            "score": 0.7156884593314562
+        },
+        "gyroscopeXValue": {
+            "threshold": 0.0,
+            "score": 0.43551045568893004
+        },
+        "gyroscopeYValue": {
+            "threshold": 0.0,
+            "score": 0.4499097048381288
+        },
+        "gyroscopeZValue": {
+            "threshold": 0.0,
+            "score": 0.4564236179816172
+        },
+        "deltaTime": {
+            "threshold": 0.0,
+            "score": 0.4529090073216836
+        },
+        "deltaGameRotationVectorXValue": {
+            "threshold": 0.0,
+            "score": 0.4574202266884621
+        },
+        "deltaGameRotationVectorYValue": {
+            "threshold": 0.0,
+            "score": 0.46617637720274124
+        },
+        "deltaGameRotationVectorZValue": {
+            "threshold": 0.0,
+            "score": 0.4663394576163056
+        },
+        "deltaGravityXValue": {
+            "threshold": 0.0,
+            "score": 0.46251878838877536
+        },
+        "deltaGravityYValue": {
+            "threshold": 0.0,
+            "score": 0.4531394547132844
+        },
+        "deltaGravityZValue": {
+            "threshold": 0.0,
+            "score": 0.4640440614941697
+        },
+        "deltaAccelerometerXValue": {
+            "threshold": 0.0,
+            "score": 0.4119402860082603
+        },
+        "deltaAccelerometerYValue": {
+            "threshold": 0.0,
+            "score": 0.4152358392353652
+        },
+        "deltaAccelerometerZValue": {
+            "threshold": 0.0,
+            "score": 0.40079759923996555
+        },
+        "deltaLinearAccelerationXValue": {
+            "threshold": 0.0,
+            "score": 0.40244440823663613
+        },
+        "deltaLinearAccelerationYValue": {
+            "threshold": 0.0,
+            "score": 0.4045138473361846
+        },
+        "deltaLinearAccelerationZValue": {
+            "threshold": 0.0,
+            "score": 0.4004193077792339
+        },
+        "deltaRotationVectorXValue": {
+            "threshold": 0.0,
+            "score": 0.47039416929679834
+        },
+        "deltaRotationVectorYValue": {
+            "threshold": 0.0,
+            "score": 0.4814339323231538
+        },
+        "deltaRotationVectorZValue": {
+            "threshold": 0.0,
+            "score": 0.45898702749660897
+        },
+        "deltaGyroscopeXValue": {
+            "threshold": 0.0,
+            "score": 0.40653247082980776
+        },
+        "deltaGyroscopeYValue": {
+            "threshold": 0.0,
+            "score": 0.4237530091854067
+        },
+        "deltaGyroscopeZValue": {
+            "threshold": 0.0,
+            "score": 0.4298278376927065
+        }
+}

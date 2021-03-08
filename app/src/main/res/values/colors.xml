@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="lock_pattern_view_regular_color">#000000</color>
+    <color name="lock_pattern_view_success_color">#000000</color>
+    <color name="lock_pattern_path_color">#ff0000</color>
+
+</resources>

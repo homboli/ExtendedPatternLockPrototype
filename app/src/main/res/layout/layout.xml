@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:divider="?dividerHorizontal"
+    android:orientation="vertical"
+    android:showDividers="middle"
+    android:id="@+id/backgroundLayout">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:orientation="horizontal"
+            android:paddingTop="30dp"
+            android:id="@+id/pasword_container_linear_layout">
+
+            <TextView
+                android:id="@+id/password_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:padding="5dp"
+                android:text="Password"
+                android:textColor="#000000"
+                android:textSize="15sp" />
+
+            <EditText
+                android:id="@+id/txtPassword"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="text">
+
+                <requestFocus />
+            </EditText>
+
+            <Button
+                android:id="@+id/password_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Set" />
+        </LinearLayout>
+        <me.gergelytusko.extendedpatternlockprototype.LockPatternView
+            android:id="@+id/pl_pattern"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+        <TextView
+            android:id="@+id/progress"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_weight="0"
+            android:gravity="center"
+            android:textAppearance="?android:textAppearanceMedium" />
+    </LinearLayout>
+</LinearLayout>

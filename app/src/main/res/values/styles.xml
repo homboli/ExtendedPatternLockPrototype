@@ -1,0 +1,18 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="LockPatternView">
+        <item name="regularColor">@color/lock_pattern_view_regular_color</item>
+        <item name="errorColor">?attr/colorError</item>
+        <item name="successColor">@color/lock_pattern_view_success_color</item>
+        <item name="pathColor">@color/lock_pattern_path_color</item>
+    </style>
+
+
+</resources>
